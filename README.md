@@ -1,2 +1,2 @@
-# IrcGoClient
-Basic IRC CLIENT
+# IrcGoClient 
+Basic IRC CLIENT (Windows)
