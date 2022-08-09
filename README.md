@@ -1,0 +1,2 @@
+# IrcGoClient
+Basic IRC CLIENT
